@@ -10,6 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background: linear-gradient(to right, #005aa7, #fffde4);
 }
 
 .emoji {
